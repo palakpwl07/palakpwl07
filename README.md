@@ -1,4 +1,4 @@
-# Hi there, I'm Palak Porwal 👋
+![Banner](https://github.com/SpaceExp263/SpaceExp263/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=palakporwal&color=blueviolet)
 
@@ -32,21 +32,12 @@ If you find my work interesting or wish to collaborate, don't hesitate to reach 
 
 ## 🔭 Currently Working On
 
-Developing an AI-based tool for proactive risk management in project management, as part of a research project at Nanyang Technological University. This involves leveraging machine learning techniques to predict potential risks and provide actionable insights to mitigate them effectively.
+Currently, I am developing an AI-based tool for proactive risk management in project management as part of a research project at Nanyang Technological University. This involves leveraging machine learning techniques to predict potential risks and provide actionable insights for effective mitigation. The tool will employ quantitative risk analysis strategies, such as Monte Carlo analysis, integrated with suitable machine learning algorithms to create a cutting-edge solution for proactive risk management.
 
-## 📖 Currently Reading
+## 🌐 About My Work
 
-Maktub by Paulo Coelho
+For detailed information about my professional experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/palak-porwal/).
 
-## 🎯 Fun Facts
+For a portfolio of my projects, please visit my [portfolio site](https://www.yourportfolio.com).
 
-- 🌟 I love stargazing and exploring the mysteries of the universe.
-- 🚀 Passionate about space technology and its applications on Earth.
-- 📚 Avid reader of science fiction and philosophical books.
-
----
-
-## 🌐 Find Me Around the Web
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palak-porwal/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:palak002@e.ntu.edu.sg)
+Feel free to reach out via [email](mailto:palakporwal07@gmail.com).
