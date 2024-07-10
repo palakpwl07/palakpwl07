@@ -5,7 +5,7 @@
 
 I'm an Aerospace Engineering student at Nanyang Technological University with a deep passion for data science and machine learning. My journey has been defined by the innovative software and machine learning solutions I've developed to address complex engineering problems. This hands-on experience has revealed the immense potential of machine learning in solving real-world challenges.
 
-I am particularly excited about applying machine learning to the fields of climate science and operations research, where I believe it can make a significant impact. My freelance work has given me the opportunity to tackle a wide range of machine learning projects, some of which are pinned on my profile. Feel free to explore these projects—I'm always open to feedback and collaboration.
+I am particularly excited about applying machine learning to the field of operations research, where I believe it can make a significant impact. My freelance work has given me the opportunity to tackle a wide range of machine learning projects, some of which are pinned on my profile. Feel free to explore these projects—I'm always open to feedback and collaboration.
 
 Currently, I'm delving into the world of generative AI, exploring how it can be harnessed to solve even more intricate problems. I firmly believe that together machine learning and software development can address unforeseen challenges and drive innovation.
 
@@ -35,7 +35,7 @@ Currently, I am developing an AI-based tool for proactive risk management in pro
 
 ## 🌐 About My Work
 
-For detailed information about my professional experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/palak-porwal/).
+For detailed information about my professional experience, please visit my <a href="https://www.linkedin.com/in/palak-porwal263/" target="_blank">LinkedIn profile</a>.
 
 For a portfolio of my projects, please visit my [portfolio site](https://www.yourportfolio.com).
 
