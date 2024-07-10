@@ -1,5 +1,4 @@
-![Banner](https://github.com/SpaceExp263/SpaceExp263/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.gif)
-
+![Banner](https://github.com/SpaceExp263/SpaceExp263/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).gif)
 ![Profile Views](https://komarev.com/ghpvc/?username=palakporwal&color=blueviolet)
 
 ## 🚀 About Me
