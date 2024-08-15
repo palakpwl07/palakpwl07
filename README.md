@@ -37,6 +37,6 @@ Currently, I am developing an AI-based tool for proactive risk management in pro
 
 For detailed information about my professional experience, please visit my <a href="https://www.linkedin.com/in/palak-porwal263/" target="_blank">LinkedIn profile</a>.
 
-For a portfolio of my projects, please visit my [portfolio site](https://www.yourportfolio.com).
+For a portfolio of my projects, please visit my [portfolio site](https://palakpwl07.github.io/).
 
 Feel free to reach out via [email](mailto:palakporwal07@gmail.com).
