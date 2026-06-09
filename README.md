@@ -15,4 +15,4 @@ Most recently: production ML at **P&G** (multimodal search with CLIP/FAISS, eval
 
 ✍️ I write about building industrial AI — retrieval that reasons, evaluation that's honest about its limits — at []
 
-📍 Singapore · [LinkedIn](https://linkedin.com/in/palakporwal263) · [Email](mailto:palakporwal07@gmail.com)
+📍 Singapore · [LinkedIn](https://linkedin.com/in/palak-porwal263) · [Email](mailto:palak002@e.ntu.edu.sg)
