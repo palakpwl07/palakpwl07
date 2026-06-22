@@ -13,6 +13,6 @@ Most recently: production ML at **P&G** (multimodal search with CLIP/FAISS, eval
 🛠️ **Working with:**
 `Python` · `LangChain / LangGraph` · `RAG` · `Neo4j` · `CLIP / FAISS` · `MLflow` · `FastAPI` · `Docker / Kubernetes` · `PyTorch` · `SQL` · `time-series & anomaly detection`
 
-✍️ I write about building industrial AI — retrieval that reasons, evaluation that's honest about its limits — at []
+✍️ I write about building industrial AI — retrieval that reasons, evaluation that's honest about its limits — at [Substack](https://aiintherealworld.substack.com/)
 
 📍 Singapore · [LinkedIn](https://linkedin.com/in/palak-porwal263) · [Email](mailto:palak002@e.ntu.edu.sg)
